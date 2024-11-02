@@ -1,0 +1,6 @@
+{
+  "name": "http2-wrapper-bun-repro",
+  "dependencies": {
+    "http2-wrapper": "^2.2.1"
+  }
+}
